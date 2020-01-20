@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">fQuFWykghp5UMK7a2w8mHHB2j5gQXAKDaFnZZFTd</string>
+    <string name="back4app_client_key">WQMs9RfdxpQmh67DxqViLSoEIKY7UOwh5Q7B3SX7</string>
+
+</resources>
